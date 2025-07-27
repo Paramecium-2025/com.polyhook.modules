@@ -2,7 +2,7 @@
 
 **一个Xposed模块，支持多应用功能扩展，免费且仅供参考学习。**
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Paramecium-2025/com.polyhook.modules)
+<a href="https://github.com/Paramecium-2025/com.polyhook.modules/releases/latest"><img alt="GitHub lastest release" src="https://img.shields.io/github/v/release/Paramecium-2025/com.polyhook.modules">
 
 ---
 
